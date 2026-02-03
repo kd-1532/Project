@@ -1,6 +1,6 @@
-package com.clientdata.project.Controller;
+package com.clientdata.project.controller;
 
-import com.clientdata.project.Service.Basic;
+import com.clientdata.project.service.Basic;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
